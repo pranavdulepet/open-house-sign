@@ -1,0 +1,6 @@
+framework module Pods_place_open_house_sign {
+  umbrella header "Pods-place_open_house_sign-umbrella.h"
+
+  export *
+  module * { export * }
+}
